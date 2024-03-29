@@ -1,2 +1,2 @@
 # FCTrendyolScript
-Trendyol scripti web sayfasıdır
+Trendyol scripti web sayfasıdır.
